@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-arktradescheme-staging-24638-authRole",
+      "UnauthRoleArn": "arn:aws:iam::381895836676:role/amplify-arktradescheme-staging-24638-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::381895836676:role/amplify-arktradescheme-staging-24638-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-arktradescheme-staging-24638-deployment",
+      "UnauthRoleName": "amplify-arktradescheme-staging-24638-unauthRole",
+      "StackName": "amplify-arktradescheme-staging-24638",
+      "StackId": "arn:aws:cloudformation:us-east-1:381895836676:stack/amplify-arktradescheme-staging-24638/4c513550-9ff0-11eb-9834-12235dab63f5",
+      "AmplifyAppId": "d27o04k94lwzgg"
+    }
+  }
+}
