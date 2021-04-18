@@ -10,7 +10,11 @@
   "dependencies": {
     "@aws-amplify/ui-components": "^1.2.0",
     "aws-amplify": "^3.3.27",
+    "chart.js": "^3.1.1",
     "core-js": "^3.6.5",
+    "papaparse": "^5.3.0",
+    "primeicons": "^4.1.0",
+    "primevue": "^3.3.5",
     "vue": "^3.0.0"
   },
   "devDependencies": {
